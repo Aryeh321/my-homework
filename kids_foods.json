@@ -1,0 +1,22 @@
+{
+    "vegetables": [
+        "Broccoli",
+        "Carrots",
+        "Cauliflower",
+        "Cucumbers",
+        "Lettuce",
+        "Onions",
+        "Peppers",
+        "Potatoes",
+        "Spinach",
+        "Tomatoes",
+        "Zucchini"
+    ],
+    "vegetable_N": "spinach",
+    "forbidden_candy": 
+        [
+            "lollies",
+            "jellies",
+            "jelly beans"
+        ]
+}
