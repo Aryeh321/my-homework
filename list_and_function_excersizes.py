@@ -6,4 +6,4 @@ def veggie_variety(vegetable, vegetable_N):
 veggie_list = ['carrot', 'broccoli', 'pepper', 'onion', 'tomato', 'mushroom']
 vegetable_N = 'spinach'
 
-print(veggie_variety(veggie_list[1:6], vegetable_N))
+print(veggie_variety(veggie_list[3:6], vegetable_N))
