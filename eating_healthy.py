@@ -9,6 +9,6 @@ def eating_proper(vegetables, vegetable_N, forbidden_candy):
 with open('kids_foods.json', 'r') as f:
     data = json.load(f)
 
-output = eating_proper(data['vegetables'], data['vegetable_N'], data['forbidden_candy'])
+output = eating_proper(data['vegetables'][6:11], data['vegetable_N'], data['forbidden_candy'])
 
 print(output)
