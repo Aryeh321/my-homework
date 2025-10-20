@@ -13,10 +13,16 @@
         "Zucchini"
     ],
     "vegetable_N": "spinach",
-    "forbidden_candy": 
-        [
-            "lollies",
-            "jellies",
-            "jelly beans"
-        ]
+
+    "forbidden_candy": [
+        "Candy",
+        "Chocolate",
+        "Candy cane",
+        "Candy corn",
+        "Gummi bears",
+        "Lollipop",
+        "Pretzels"
+    ]
+   
+        
 }
